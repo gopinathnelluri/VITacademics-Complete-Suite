@@ -7,5 +7,5 @@
 2. Eassy Access (work in progress)
 
 
-# [Download This Chrome Plugin](https://chrome.google.com/webstore/detail/autocaptcha-for-vit-acade/mnagejdhifpmdhmiejpapilgmlnommlk)
+# [Download This Chrome Plugin](https://chrome.google.com/webstore/detail/autocaptcha-for-vit-unive/nijecnmimhpeklpmjfeibapgmlaphanj)
 # Currently in development.
